@@ -1,0 +1,4 @@
+class CrediCard(){
+ private number;
+ private customerCred;
+}
