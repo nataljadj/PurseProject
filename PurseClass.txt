@@ -1,0 +1,4 @@
+Purse Class(){
+ private cash;
+ private coins;
+}
